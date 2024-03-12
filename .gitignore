@@ -1,0 +1,4 @@
+*.agdai
+MAlonzo/**
+/Sitecore.CH.WebSDK/bin/Debug/net5.0
+/Sitecore.CH.WebSDK/obj
